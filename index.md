@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Favourite things about CS193
 - I like the fact I'm learning something completely new
 - I enjoy my peers' company
-- I lovee the way we're taught 
+- I lovee the way we're taught
 
 ### Markdown
 
