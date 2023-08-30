@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Raghav's First CS193 Homework
 ### Favourite things about CS193
 - I like the fact I'm learnign something completely new
-- I enjoy my peers' company 
+- I enjoy my peers' company
 
 ### Markdown
 
