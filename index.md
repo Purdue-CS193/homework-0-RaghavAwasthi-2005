@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - I like the fact I'm learning something completely new
 - I enjoy my peers' company
 - I lovee the way we're taught
-
+  
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
